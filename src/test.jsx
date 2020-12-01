@@ -1,8 +1,9 @@
 import React from 'react';
 import Test2 from './test2';
 class Test extends React.Component {
+  
     
-        p(){
+       p(){
     
              console.log('print welcome!!');
              document.write("hi");
