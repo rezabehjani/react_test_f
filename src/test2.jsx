@@ -4,17 +4,18 @@ class Test2 extends React.Component {
    constructor(props){
       super(props);
       this.test=new Test();
-      
    }
     render() {
 
        return (
           <div>
-             <br/>
+             {this.test.show_atu()}
              <Test/>
-             <button onClick={this.test.p}>show</button>
-
+             <button onClick={this.test.show}>show</button>
+             {this.test.sum(2,3)}
+             <br/>
           </div>
+
        );
     }
  }
