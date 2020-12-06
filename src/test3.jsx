@@ -2,7 +2,7 @@ import React from 'react';
 import Test from './test';
 import './App.css';
 import './Style.css';
-class Test2 extends React.Component {
+class Test3 extends React.Component {
    constructor(props){
       super(props);
       this.test=new Test();
@@ -10,11 +10,11 @@ class Test2 extends React.Component {
     render() {
 
        return (
-          <div className="C-sec">
-            
+          <div className="D-sec">
+          
           </div>
 
        );
     }
  }
- export default Test2;
+ export default Test3;

@@ -4,7 +4,7 @@ import App from './App';
 import Test from './test';
 import Test2 from './test2';
 ReactDOM.render(
-    <Test2/>,
+    <App/>,
     document.getElementById('root')
 );
 
