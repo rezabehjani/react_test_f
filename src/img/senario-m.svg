@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="senario" transform="translate(-36.11 -402.11)" opacity="0.3">
+    <g id="Rectangle_155" data-name="Rectangle 155" transform="translate(36.11 402.11)" fill="none" stroke="#fff" stroke-width="2">
+      <rect width="80" height="80" rx="16" stroke="none"/>
+      <rect x="1" y="1" width="78" height="78" rx="15" fill="none"/>
+    </g>
+    <g id="Ellipse_54" data-name="Ellipse 54" transform="translate(51.609 417.609)" fill="none" stroke="#fff" stroke-width="2">
+      <circle cx="5.654" cy="5.654" r="5.654" stroke="none"/>
+      <circle cx="5.654" cy="5.654" r="4.654" fill="none"/>
+    </g>
+    <g id="Ellipse_57" data-name="Ellipse 57" transform="translate(70.456 417.609)" fill="none" stroke="#fff" stroke-width="2">
+      <circle cx="5.654" cy="5.654" r="5.654" stroke="none"/>
+      <circle cx="5.654" cy="5.654" r="4.654" fill="none"/>
+    </g>
+    <g id="Ellipse_58" data-name="Ellipse 58" transform="translate(89.303 417.609)" fill="none" stroke="#fff" stroke-width="2">
+      <circle cx="5.654" cy="5.654" r="5.654" stroke="none"/>
+      <circle cx="5.654" cy="5.654" r="4.654" fill="none"/>
+    </g>
+    <g id="Ellipse_55" data-name="Ellipse 55" transform="translate(51.609 436.456)" fill="none" stroke="#fff" stroke-width="2">
+      <circle cx="5.654" cy="5.654" r="5.654" stroke="none"/>
+      <circle cx="5.654" cy="5.654" r="4.654" fill="none"/>
+    </g>
+    <g id="Ellipse_56" data-name="Ellipse 56" transform="translate(51.609 455.303)" fill="none" stroke="#fff" stroke-width="2">
+      <circle cx="5.654" cy="5.654" r="5.654" stroke="none"/>
+      <circle cx="5.654" cy="5.654" r="4.654" fill="none"/>
+    </g>
+    <g id="future" transform="translate(62.915 428.917)">
+      <path id="Path_146" data-name="Path 146" d="M29.755,14.429a.9.9,0,0,0-.9.9A13.525,13.525,0,1,1,21.79,3.437L20.667,4.56A.9.9,0,0,0,21.3,6.093h4.3a.9.9,0,0,0,.9-.9V.9A.9.9,0,0,0,24.964.263L23.107,2.12A15.327,15.327,0,0,0,4.489,26.164,15.327,15.327,0,0,0,30.653,15.327.9.9,0,0,0,29.755,14.429Z" transform="translate(21.675 43.35) rotate(-135)" fill="#fff"/>
+      <path id="Path_147" data-name="Path 147" d="M249.907,152.307H243.4V145.8a1.2,1.2,0,1,0-2.4,0v7.706a1.2,1.2,0,0,0,1.2,1.2h7.705a1.2,1.2,0,1,0,0-2.4Z" transform="translate(-220.277 -130.405)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
