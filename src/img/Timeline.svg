@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="31.026" viewBox="0 0 31 31.026">
+  <g id="bar-chart" transform="translate(-0.213)">
+    <g id="Group_115" data-name="Group 115" transform="translate(0.213 14.22)">
+      <g id="Group_114" data-name="Group 114" transform="translate(0)">
+        <path id="Path_109" data-name="Path 109" d="M7.323,234.667H.859a.647.647,0,0,0-.646.646v15.513a.647.647,0,0,0,.646.646H7.323a.647.647,0,0,0,.646-.646V235.313A.646.646,0,0,0,7.323,234.667Z" transform="translate(-0.213 -234.667)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_117" data-name="Group 117" transform="translate(11.822)">
+      <g id="Group_116" data-name="Group 116">
+        <path id="Path_110" data-name="Path 110" d="M198.9,0h-6.464a.647.647,0,0,0-.646.646V30.379a.647.647,0,0,0,.646.646H198.9a.647.647,0,0,0,.646-.646V.646A.647.647,0,0,0,198.9,0Z" transform="translate(-191.786)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_119" data-name="Group 119" transform="translate(23.456 6.464)">
+      <g id="Group_118" data-name="Group 118">
+        <path id="Path_111" data-name="Path 111" d="M390.9,106.667h-6.464a.647.647,0,0,0-.646.646v23.269a.647.647,0,0,0,.646.646H390.9a.647.647,0,0,0,.646-.646V107.313A.647.647,0,0,0,390.9,106.667Z" transform="translate(-383.786 -106.667)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

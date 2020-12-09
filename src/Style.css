@@ -1,35 +1,69 @@
-
 *{
-      font-family: IRANSans;
-      margin: 0;
-      padding: 0;
-      direction: rtl;
-  }
+    margin: 0px;
+    padding: 0px;
+}
 .A{
     width: 100%;
     height: 630px;
-    background-color:rgb(239, 241, 247);
-    direction: rtl;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    background-color: rgb(240, 240, 240);
+  
+    
+}
+.sidebar{
+    width:13%;
+    height: 630px;
+    background-color: #26A69A;
+    font:12px; 
+}
+.Mid{
+    width:30%;
+    height: 630px;
+    margin-left:-20px;
 }
 .A-top{
-    width: 100%;
-    height: 360px;
-}
-
-.A-section{
-    margin: 10px;
     width: 55%;
+    height: 630px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.A-top-menu{
+    width: 100%;  height: 110px;
+
+}
+.A-top-chart{
+    width: 95%;
+    height: 250px;
+    background-color: rgb(255, 254, 254);
+    border:0.1px solid rgb(223, 223, 223);
+    border-radius: 10px;
+}
+.chart{
+width: 550px;
+position: relative;
+left: 45px;
+bottom: 32px;
+}
+.A-section{
+    width: 100%;
     height: 135px;
     display: flex;
+    flex-direction: row-reverse;
     justify-content: space-around;
-    float: left;
-   
+    margin-top: 15px;
+    margin-bottom: 15px;
 
 }
 .A-footer{
-    width: 55%;
+    width: 100%;
     height: 110px;
-    float: left;
+    margin-right: 20px;
+   
+   
+
 }
 .Green-sec{
     width: 30%;
@@ -46,6 +80,7 @@
     display:flex;
     justify-content: space-around;
     align-items: center;
+    flex-direction: row-reverse;
 }
 .number{
     font-size: 22px;
@@ -104,11 +139,13 @@
     justify-content: space-around;
     color: white;
     font-size: 12px;
+    flex-direction: row-reverse;
 }
 .text-orange{
     font-size: 13px;
     display: flex;
     flex-direction: column;
+    direction: rtl;
     align-self: center;
     color: white;
     font-size: 14px;
@@ -120,12 +157,14 @@
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
+
 }
 
 .text-orange-3{
     display: flex;
     justify-content:space-between;
     align-items: center;
+    flex-direction: row-reverse;
 
     
 }
@@ -139,12 +178,14 @@
     border-radius: 15px;
     background-image: linear-gradient(#007FF9, #00478C);
     display: flex;
+    flex-direction: row-reverse;
     justify-content: space-around;
 }
 .text-blue {
     font-size: 13px;
     display: flex;
     flex-direction: column;
+    direction: rtl;
     align-self: center;
     color: white;
     font-size: 14px;
@@ -161,13 +202,12 @@
     width: 95%;
     height: 100px;
     background-color: white;
-    margin-right: 0px;
-    border: 0px solid;
+    border:0.1px solid rgb(223, 223, 223);
     border-radius: 10px;
     display: flex;
-    flex-direction: row-reverse;
     justify-content: flex-start;
-    padding-left:15px;
+    margin-left: 25px;
+    padding-left: 10px;
 }
 .div-img{
     display: flex;
@@ -175,7 +215,6 @@
     align-items: center;
     align-content: center;
     font-size: 12px;
-    margin-top:10px;
 }
 .img-foot{
     width: 70px;
@@ -187,8 +226,8 @@
     width: 52px;
     height: 52px;
     position: absolute;
-    margin-right: -61px;
-    margin-bottom: -50px;
+    margin-left:-61px;
+    margin-bottom: -5px;
     margin-top: 9px;
 }
 
@@ -196,7 +235,209 @@
     width: 20px;
     height:20px;
     position: absolute;
-    margin-right: -45px;
-    margin-bottom: -10px;
-    margin-top: 23px;
+    margin-left:-46px;
+    margin-bottom: -5px;
+    margin-top: 25px;
+}
+
+
+.avatar{
+    background-color: white;
+    width: 100%;
+    height: 130px;
+  }
+.avat img{
+      width: 60px;
+      height: 60px;
+  }
+.menu{
+    display: flex;
+    flex-direction: column;
+  }
+  a{
+    text-decoration: none;
+    color: white;
+  }
+  
+  .anchor{
+    height: 50px;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    justify-content: flex-end;
+  
+  }
+  
+  .anchor:hover{
+    background-color:#00766C;
+    border-radius: 13px;
+  }
+  
+  .image{
+  width: 20px;
+  display: flex;
+  justify-content: center;
+  margin-right: 44px;
+  padding-left: 15px;
+  }
+  
+  .text-link{
+    display: flex;
+    justify-content: center;
+    /* margin-left: 15px;
+  margin-right: 30px;
+  padding-left: 20px;
+  padding-right: 20px; */
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 12px;
+  }
+  
+  .arrow{
+    width: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+  }
+  
+  .top-menu{
+  
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+  }
+  .avat{padding-left: 55px;}
+  
+  .name-avatar{
+    color: #26A69A;
+    display: flex;
+    flex-direction: column;
+    font-size: 13px;
+    align-items: center;
+  }
+  
+  .Condition{
+
+    font-size:10px;
+  }
+  
+  .point{
+    width: 7px;
+    padding-right: 8px;
+  }
+/*mahbube*/
+.box-top{
+    width: 100%;
+    height: 130px;
+    border:0.1px solid rgb(223, 223, 223);
+    background-color: white;
+    border-radius: 15px;
+    padding-top: 15px;
+    direction: rtl;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 10px;
+    box-shadow:rgb(212, 210, 210) 1px 1px 3px;
+    margin-top: 60px;
+}
+.text{
+    color: teal;
+    font-size: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top:-20px;
+   
+}
+.text h1{
+    margin-top: 10px;
+}
+.text h2{
+    margin-top: 10px;
+}
+.box-center{
+    width: 100%;
+    height: 50px;
+    margin-top: 265px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.box-botton{
+    width: 100%;
+    height: 100px;
+    border-radius: 15px;
+    background-color: rgb(71, 163, 135);
+    box-shadow: rgb(255, 255, 255);
+    border:0.1px solid rgb(223, 223, 223);
+    box-shadow:rgb(212, 210, 210) 1px 1px 3px;
+
+}
+
+
+.text{
+    color: teal;
+    font-size: 8px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.icon{
+    
+    display: flex;
+    flex-direction:row;
+    margin-top: 20px;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+.x{
+    width: 40px;
+    height: 45px;
+    background-color:white;
+    border-radius:50px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    padding-left: 18px;
+    padding-top: 12px;
+    
+}
+.x-icon{
+    width: 23px;
+    height: 23px;
+    margin-top: 5px;
+}
+.imgg{
+    width:170px;
+    height:140px;
+    
+}
+.del-icon{
+    position: relative;
+    right: 0px;
+    bottom: 10px;
+    width: 17px;
+    height:17px;
+}
+
+
+
+.edit{
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+    background-color:white;
+    border:0.1px solid rgb(223, 223, 223);
+}
+.button-edit{
+    margin-bottom: 15px;
+}
+.edit-flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-self: center;
 }

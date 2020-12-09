@@ -19,7 +19,7 @@ class Test4 extends React.Component {
           <div className="foot">
               <div className="div-img">
                   <img src={P} className="img-foot"></img>
-                  <p>امیر</p>
+                  <span>امیر</span>
               </div>
               <div className="div-img">
                   <div>
@@ -27,15 +27,15 @@ class Test4 extends React.Component {
                   <img src={Blue} className="img-blue-circle"></img>
                   <img src={Creat} className="img-create"></img>
                   </div>
-                  <p>سارا</p>
+                  <span>سارا</span>
               </div>
               <div className="div-img">
                   <img src={P4} className="img-foot"></img>
-                  <p>محمد</p>
+                  <span>محمد</span>
               </div>
               <div className="div-img">
                   <img src={P3} className="img-foot"></img>
-                  <p>مامان</p>
+                  <span>مامان</span>
               </div>
           </div>
 
