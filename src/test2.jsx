@@ -15,7 +15,7 @@ class Test2 extends React.Component {
          <div className="Orange-sec">
             <div class="text-orange">
                   <b className="txt">بروزرسانی اخیر</b>
-                  <span className="txt">کلید تک پل </span>
+                  <span className="txt ">کلید تک پل </span>
                   <span className="txt">پریز اتاق خواب</span>
                    <span className="txt">کلید تک پل</span>
             </div>

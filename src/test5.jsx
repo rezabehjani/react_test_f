@@ -13,9 +13,9 @@ class Test5 extends React.Component {
        return (
           <div className="box-top">
          <div className="text">   
-            <h1>روز بخیر!</h1>
-             <h2>شنبه     1399/7/26      07:38  ق.ظ</h2>
-             <h1>+18سانتی گراد</h1>
+            <b>روز بخیر!</b>
+             <p>شنبه     1399/7/26      07:38  ق.ظ</p>
+              <p>  <b>+18</b> سانتی گراد</p>
              </div>
              <div> <img src={Img} className="imgg"></img></div>
           </div>

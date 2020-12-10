@@ -22,11 +22,10 @@ class Test4 extends React.Component {
                   <span>امیر</span>
               </div>
               <div className="div-img">
-                  <div>
+                 
                   <img src={P2} className="img-foot"></img>
                   <img src={Blue} className="img-blue-circle"></img>
                   <img src={Creat} className="img-create"></img>
-                  </div>
                   <span>سارا</span>
               </div>
               <div className="div-img">

@@ -10,17 +10,22 @@ import Test6 from './test6';
 import Test7 from './test7';
 import Sidebar from './sidebar';
 import Chart from './chart';
+import Map from './map';
+import Menu from './menu-top';
 function App() {
   return (
     <div className="A">
+      <div className="cover"></div>
       <div className="sidebar"><Sidebar/></div>
+      <div className="menutop"><Menu/></div>
+      <div className="right">
       <div className="Mid">
         <Test5/>
+        <Map/>
         <Test7/>
         <Test6/>
       </div>
       <div className="A-top">
-        <div className="A-top-menu"></div>
         <div className="A-top-chart"><div className="chart"><Chart/></div></div>
       <div className="A-section"> 
         <Test3/>
@@ -32,6 +37,8 @@ function App() {
       </div>
       </div>
     </div>
+      </div>
+
   );
 }
 

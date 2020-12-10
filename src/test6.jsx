@@ -22,7 +22,7 @@ class Test6 extends React.Component {
              <div className="x"> <img src={Img2} className="x-icon"></img><img src={Img6}className="del-icon" ></img></div> 
              <div className="x"> <img src={Img3} className="x-icon"></img><img src={Img6}className="del-icon" ></img></div> 
              <div className="x"> <img src={Img4} className="x-icon"></img><img src={Img6}className="del-icon" ></img></div> 
-             <div className="x"> <img src={Img5} className="x-icon"></img><img src={Img6}className="del-icon" ></img></div> 
+             <div className="x"> <img src={Img5} className="x-iconn"></img><img src={Img6}className="del-icon" ></img></div> 
             </div>
             </div>
        );

@@ -11,8 +11,8 @@ class Test extends React.Component {
           <div className="Green-sec">
              <div className="text-green">
                 <div className="text-green2">
-                <b>دمای محیط</b>
-                <span>اتاق خواب</span>
+                <b className="font">دمای محیط</b>
+                <span  className="font"> اتاق خواب</span>
                 </div>
                 <div>
                    <b className="number">۲۸°</b>

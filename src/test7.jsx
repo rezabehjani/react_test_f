@@ -13,9 +13,8 @@ class Test7 extends React.Component {
        
        return (
           <div className="box-center">
-        
         <button className="edit"><img src={Img}></img>ویرایش</button>
-        <b>دسترسی سریع</b>
+        <span className="font">دسترسی سریع</span>
            
           </div>
        );
