@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="del-icon" transform="translate(-74.868 -196.968)">
+    <ellipse id="Ellipse_46" data-name="Ellipse 46" cx="12.434" cy="12.484" rx="12.434" ry="12.484" transform="translate(75 197)" fill="#fff"/>
+    <path id="Icon_material-cancel" data-name="Icon material-cancel" d="M13.668,1.25A12.418,12.418,0,1,0,26.086,13.668,12.406,12.406,0,0,0,13.668,1.25Zm6.209,16.876-1.751,1.751-4.458-4.458L9.21,19.877,7.459,18.126l4.458-4.458L7.459,9.21,9.21,7.459l4.458,4.458,4.458-4.458L19.877,9.21l-4.458,4.458Z" transform="translate(73.618 195.718)"/>
+  </g>
+</svg>

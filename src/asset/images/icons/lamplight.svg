@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="37.058" height="29.646" viewBox="0 0 37.058 29.646">
+  <g id="lamplight" transform="translate(-2 -8)">
+    <path id="Path_37" data-name="Path 37" d="M39.058,29.471V28.235H37.823v-.618A.618.618,0,0,0,37.2,27H3.853a.618.618,0,0,0-.618.618v.618H2v1.235H3.235v1.235H2v1.235H3.235v.618a.618.618,0,0,0,.618.618H37.2a.618.618,0,0,0,.618-.618v-.618h1.235V30.706H37.823V29.471ZM5.706,31.941H4.471V28.235H5.706Zm28.411,0H6.941V28.235H34.117Zm2.471,0H35.352V28.235h1.235Z" transform="translate(0 -7.265)" fill="#26a69a"/>
+    <path id="Path_38" data-name="Path 38" d="M31,8h1.235v3.706H31Z" transform="translate(-11.089 0)" fill="#26a69a"/>
+    <path id="Path_39" data-name="Path 39" d="M0,0H1.235V3.706H0Z" transform="translate(9.609 12.777) rotate(-45)" fill="#26a69a"/>
+    <path id="Path_40" data-name="Path 40" d="M0,0H3.706V1.235H0Z" transform="translate(9.606 32.866) rotate(-45)" fill="#26a69a"/>
+    <path id="Path_41" data-name="Path 41" d="M31,50h1.235v3.706H31Z" transform="translate(-11.089 -16.06)" fill="#26a69a"/>
+    <path id="Path_42" data-name="Path 42" d="M0,0H1.235V3.706H0Z" transform="translate(27.948 31.118) rotate(-45)" fill="#26a69a"/>
+    <path id="Path_43" data-name="Path 43" d="M0,0H3.706V1.235H0Z" transform="translate(27.949 14.527) rotate(-45)" fill="#26a69a"/>
+  </g>
+</svg>
