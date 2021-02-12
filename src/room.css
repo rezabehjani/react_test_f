@@ -1,0 +1,98 @@
+@font-face {
+    font-family: IRANSans;
+    src: url('../src/asset/fonts/FontsFree-Net-ir_sans.ttf');
+    font-weight: normal;
+  }
+*{
+    font-family: IRANSans;
+    margin: 0px;
+    padding: 0px;
+}
+.A{
+    width: 100%;
+    height: 650px;
+    background-color: rgb(250, 250, 250);
+  
+    
+}
+
+.sidebar{
+    height: 630px;
+    font:12px; 
+    float: right;
+}
+.menutop
+{
+    width: 85%;
+    height: 80px;
+    float: left;
+
+
+}
+article{
+    display: flex;
+    height: 493px;
+    width: 85%;
+}
+.right{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    height: 515px;
+    margin:12px 30px;
+}
+.middle{
+    width: 40%;
+    height: 493px;
+    float: left;
+    margin: 10px -5px;
+}
+@media only screen and (max-width: 950px)
+{
+.sidebar {
+    width: 30%;
+    display: none;
+    position: absolute;
+    z-index: 9999999;
+}
+.menutop
+{
+    width: 100%;
+    height: 70px;
+    float: left;
+
+}
+article{
+    width: 100%;
+}
+.right{
+    width: 50%;
+    height: 515px;
+    margin-top:12px ;
+}
+.middle{
+    width: 50%;
+    height: 493px;
+    float: left;
+    margin: 10px 20px;
+}
+}
+@media only screen and (max-width: 700px) {
+
+article{
+    width: 95%;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    
+}
+.right{
+    width: 100%;
+}
+.middle{
+    width: 100%;
+}
+}
+@media (max-width: 481px) {
+    
+  }
